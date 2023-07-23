@@ -3,7 +3,7 @@ An on  and off chain payment system using a Paymaster smart contract
 
 DESCRIPTION
 
-Cropay is aiming to address the challenge of small scale farmers delivering quality products to market on time. Small Scalwe farmers face the following difficulties:
+Cropay is aiming to address the challenge of small scale farmers delivering quality products to market on time. Small Scale farmers face the following difficulties:
 1. Inadequate funds to pay for produce transportation to market.
 2. Selling off harvest at uncompetitive prices to transport crops to market.
 3. Unawareness of local market prices regarding crops.
@@ -44,7 +44,7 @@ KNOWN ISSUES
 4. Soul Wallet, another ERC-4337 wallet isnt ready for use and there is a waiting list.
 5.  The Biconomy SDK Bundler is compatible with Trampoline wallet but not the Biconomy Paymaster smart contract.
 6.  In order to use the Stack Bundler, Go1.19 is the preferred version.
-7.  the Trampoline default wallet requires a builder folder in the browser extension. Despite installing 'yarn build' this wasnt present. However, this was tested on Windows.
+7.  the Trampoline default wallet requires a builder folder in the browser extension. Despite installing 'yarn build' this wasnt present. However, this was tested on Windows. The Trampoline team has been notified of this difficulty and are yet to respond. 
 8.  In the absence of using Trampoline, there are limited wallets that are ERC-4337 compatible. A Smart contract wallet could suffice. However, there may be challenges in using the Paymaster Smart contract. 
 
 

@@ -21,15 +21,16 @@ Cropay will address these challenges by the following methods:
 9. The use of two wallets (Rainbow and Wallet Connect) to provide access to the Blockchain and connect with Paymaster Smart Contract
 
 CONTRIBUTION GUIDELINES
+
 Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
 
-Fork the repository and create your branch from main.
-If you've added code that should be tested, add tests.
-If you've changed APIs, update the documentation.
-Ensure the test suite passes.
-Make sure your code lints.
-Issue that pull request!
-Always add a README and/or requirements.txt to your added code.
+1.Fork the repository and create your branch from main.
+2.If you've added code that should be tested, add tests.
+3.If you've changed APIs, update the documentation.
+4.Ensure the test suite passes.
+5.Make sure your code lints.
+6.Issue that pull request!
+7.Always add a README and/or requirements.txt to your added code.
 
 GETTING STARTED
 

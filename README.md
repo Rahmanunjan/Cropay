@@ -8,7 +8,7 @@ Cropay is aiming to address the challenge of small scale farmers delivering qual
 2. Selling off harvest at uncompetitive prices to transport crops to market.
 3. Unawareness of local market prices regarding crops.
 4. Lack of mobile transport or access to transport crops to market
-5. Lack of transparency regarding collaborating Large Scale Farlers delivering produce on behalf of Small Scale Farmers. 
+5. Lack of transparency regarding when Large Scale Farlers deliver produce on behalf of Small Scale Farmers. 
 
 Cropay will address these challenges by the following methods:
 1. Formation of a local DAO (WorldCoin) with 'Proof' of reputation for Large Scale Farmers (LSF) and Small Scale Farmers (SSF).

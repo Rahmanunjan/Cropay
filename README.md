@@ -47,6 +47,13 @@ KNOWN ISSUES
 7.  the Trampoline default wallet requires a builder folder in the browser extension. Despite installing 'yarn build' this wasnt present. However, this was tested on Windows. The Trampoline team has been notified of this difficulty and are yet to respond. 
 8.  In the absence of using Trampoline, there are limited wallets that are ERC-4337 compatible. A Smart contract wallet could suffice. However, there may be challenges in using the Paymaster Smart contract. 
 
+LESSONS LEARNED
+1. READme and documentation need to be updated regularly.
+2. Compatibility issues between technologies need to be documented.
+3. An alternative technology e.g another ERC-4337 wallet etc should be considered and testesd early.
+4. Woking as a team enables more effective and best practices.
+5. Enusre all dependencies are the lastest version or updated e.g Node Js etc prior to hacking.
+   
 
 
 
